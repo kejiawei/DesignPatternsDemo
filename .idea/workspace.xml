@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d59a79f-504e-40a5-8184-e3e4a4e15054" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DesignPatterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPatterns/Object/Duck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPatterns/Object/MallardDuck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPatterns/behavior/impl/FlyNoWays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPatterns/behavior/impl/FlyWithWings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPatterns/behavior/impl/MuteQuack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPatterns/behavior/impl/Quack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPatterns/behavior/impl/Squeak.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPatterns/behavior/itf/FlyBehavior.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPatterns/behavior/itf/QuackBehavior.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPatterns/test/DuckTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="hot-fix" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Cq4rnXtswAeRofaCuuV6b7xZHi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="behavior.impl" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DuckTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.DuckTest" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DuckTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d59a79f-504e-40a5-8184-e3e4a4e15054" name="Default Changelist" comment="" />
+      <created>1659516981188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659516981188</updated>
+      <workItem from="1659516983443" duration="3368000" />
+      <workItem from="1668345020070" duration="3567000" />
+      <workItem from="1670070383518" duration="1002000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit!">
+      <created>1670071019850</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670071019850</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit!" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit!" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="607" y="124" key="CommitChangelistDialog2" timestamp="1670071019674">
+      <screen x="0" y="25" width="2048" height="1053" />
+    </state>
+    <state x="607" y="124" key="CommitChangelistDialog2/0.25.2048.1053@0.25.2048.1053" timestamp="1670071019674" />
+    <state x="322" y="216" width="1472" height="784" key="DiffContextDialog" timestamp="1668349791356">
+      <screen x="0" y="25" width="2048" height="1053" />
+    </state>
+    <state x="322" y="216" width="1472" height="784" key="DiffContextDialog/0.25.2048.1053@0.25.2048.1053" timestamp="1668349791356" />
+    <state x="566" y="88" key="SettingsEditor" timestamp="1668906391083">
+      <screen x="0" y="25" width="2048" height="1053" />
+    </state>
+    <state x="566" y="88" key="SettingsEditor/0.25.2048.1053@0.25.2048.1053" timestamp="1668906391083" />
+    <state x="623" y="288" key="Vcs.Push.Dialog.v2" timestamp="1670071101890">
+      <screen x="0" y="25" width="2048" height="1053" />
+    </state>
+    <state x="623" y="288" key="Vcs.Push.Dialog.v2/0.25.2048.1053@0.25.2048.1053" timestamp="1670071101890" />
+    <state x="401" y="194" width="1472" height="784" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1668346629923">
+      <screen x="0" y="25" width="2048" height="1053" />
+    </state>
+    <state x="401" y="194" width="1472" height="784" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.2048.1053@0.25.2048.1053" timestamp="1668346629923" />
+    <state x="1280" y="352" key="git4idea.merge.GitMergeDialog" timestamp="1668349788568">
+      <screen x="0" y="25" width="2048" height="1053" />
+    </state>
+    <state x="1280" y="352" key="git4idea.merge.GitMergeDialog/0.25.2048.1053@0.25.2048.1053" timestamp="1668349788568" />
+    <state x="1292" y="458" key="git4idea.ui.GitResetDialog" timestamp="1668349649169">
+      <screen x="0" y="25" width="2048" height="1053" />
+    </state>
+    <state x="1292" y="458" key="git4idea.ui.GitResetDialog/0.25.2048.1053@0.25.2048.1053" timestamp="1668349649169" />
+  </component>
+</project>
